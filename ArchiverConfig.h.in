@@ -1,0 +1,3 @@
+// the configured options and settings for Archiver
+#define archiver_VERSION_MAJOR @archiver_VERSION_MAJOR@
+#define archiver_VERSION_MINOR @archiver_VERSION_MINOR@
